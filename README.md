@@ -1,5 +1,5 @@
 # Excel_Macros
-Excel macros that could be usefull in the future.
+Excel macros that could be usefull in the "future".
 
 
 ## Purspose of this repo
